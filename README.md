@@ -11,4 +11,5 @@ I'm open to other suggestions too.
 
 The best way to contact me is 📧frenkel.ilia@gmail.com.
 My [LindkedIn profile](https://www.linkedin.com/in/iliafrenkel/) will work too.
+I am also on <a rel="me" href="https://infosec.exchange/@iliaf">Mastodon</a>.
 If you are in Melbourne and want to chat over a coffee or a beer, drop me a note.
