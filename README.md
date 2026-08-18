@@ -6,8 +6,8 @@ He/Him / 🇦🇺 / 🇮🇱 / 🇷🇺 /
 I am a cybersecurity engineer, DevOps engineer and quality assurance engineer.
 I like everything containers (not k8s, though), and at the moment, I'm into Golang.
 I'm looking for some help with Go, either mentoring or learning together. Come to
-[go-pb repo](https://github.com/iliafrenkel/go-pb) and join me if you are keen.
-I'm open to other suggestions too.
+[on-suite repo](https://github.com/iliafrenkel/on-suite) and join me if you are keen.
+I'm open to suggestions too.
 
 The best way to contact me is 📧me@iliaf.net.
 My [LindkedIn profile](https://www.linkedin.com/in/iliafrenkel/) will work too.
