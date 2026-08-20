@@ -3,8 +3,10 @@ He/Him / 🇦🇺 / 🇮🇱 / 🇷🇺 /
 
 <img align="right" width="150" height="150" src="https://github.com/iliafrenkel/iliafrenkel/blob/main/assets/me-octocat.png">
 
-I am a cybersecurity engineer, DevOps engineer and quality assurance engineer.
-I like everything containers (not k8s, though), and at the moment, I'm into Golang.
+I am an IT engineer (currently cybersecurity, former DevOps, former QA).
+I like web development, but I don't like JavaScript/Typescript and the whole Node/Bun ecosystem.
+For web development, I prefer Go. I am also into systems programming, but I don't like C. Yeah, I know :-).
+I much prefer Rust and I'm in the process of learning it.
 I'm looking for some help with Go, either mentoring or learning together. Come to
 [on-suite repo](https://github.com/iliafrenkel/on-suite) and join me if you are keen.
 I'm open to suggestions too.
